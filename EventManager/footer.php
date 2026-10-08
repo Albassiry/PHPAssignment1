@@ -1,3 +1,6 @@
-<footer>
-    <h2>Copyright &copy; 2026 - All rights reserved</h2>
-</footer>
+</main>
+    <footer>
+        <p>Copyright &copy; 2026 - All rights reserved</p>
+    </footer>
+</body>
+</html>
